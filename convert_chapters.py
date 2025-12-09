@@ -160,7 +160,7 @@ def convert_chapter(input_path: Path, output_path: Path):
 
 def main():
     base_dir = Path(__file__).parent
-    input_dir = base_dir / 'chapters_english'
+    input_dir = base_dir / 'chapters_english_revised'
     output_dir = base_dir / 'chapters_typ'
 
     output_dir.mkdir(exist_ok=True)

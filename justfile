@@ -86,7 +86,29 @@ open-epub:
 # Open both outputs
 open: open-pdf open-epub
 
+# Generate audiobook with Piper (WAV files per chapter)
+audiobook-piper:
+    python3 generate_audiobook.py
+
+# Generate audiobook with Coqui TTS (WAV files per chapter)
+audiobook:
+    python3 generate_audiobook_coqui.py
+
+# Combine audiobook chapters into single MP3 (requires ffmpeg)
+audiobook-combine:
+    #!/usr/bin/env bash
+    cd dist/audiobook_coqui
+    # Create file list
+    ls -1 *.wav | sort | sed "s/^/file '/" | sed "s/$/'/" > filelist.txt
+    # Combine and convert to MP3
+    ffmpeg -y -f concat -safe 0 -i filelist.txt -acodec libmp3lame -ab 128k ../audiobook.mp3
+    rm filelist.txt
+    echo "Created: dist/audiobook.mp3"
+
+# Full audiobook build (generate + combine)
+audiobook-full: audiobook audiobook-combine
+
 # Show file sizes
 stats:
     @echo "Output files:"
-    @ls -lh dist/typst/book.pdf dist/pandoc/book.epub 2>/dev/null || echo "No output files yet. Run 'just build'"
+    @ls -lh dist/typst/book.pdf dist/pandoc/book.epub dist/audiobook.mp3 2>/dev/null || echo "Run 'just build' or 'just audiobook-full'"

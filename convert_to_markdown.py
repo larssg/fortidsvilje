@@ -132,7 +132,7 @@ def convert_chapter(input_path: Path) -> str:
 
 def main():
     base_dir = Path(__file__).parent
-    input_dir = base_dir / 'chapters_english'
+    input_dir = base_dir / 'chapters_english_revised'
     output_dir = base_dir / 'chapters_md'
 
     output_dir.mkdir(exist_ok=True)

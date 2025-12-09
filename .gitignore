@@ -1,1 +1,16 @@
+# Build outputs
 dist/
+
+# Generated intermediate files (can be regenerated with 'just convert')
+chapters_md/
+chapters_typ/
+
+# Large binary model files
+voices/
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
