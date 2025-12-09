@@ -1,0 +1,139 @@
+# Chapter 19 — Northern Italy, 1947
+
+The train rolled north through the Italian countryside, carrying its cargo of released prisoners toward Germany and whatever waited beyond.
+
+Jens sat with Udo on the small platform at the rear of the last car, smoking cigarettes, watching the tracks unspool behind them. The mood in the compartments was jubilant—men singing, laughing, celebrating their freedom—but out here it was quiet enough to talk.
+
+"You'll need a story," Udo said. "Not just a name. Where you were born, what your father did, why you have no papers."
+
+"I've thought about it."
+
+"And?"
+
+Jens had been thinking about little else for days. "Dieter Schmidt. From Hamburg. Father was a dock worker, killed in the first days of the war. Mother died in the bombing. I enlisted in '41, served on the Eastern Front, lost all my documents when my unit was destroyed. No surviving family. Nothing to go back to."
+
+"Hamburg's a good choice. Half the city is rubble. No one will be able to verify anything."
+
+"That's the idea."
+
+Udo flicked his cigarette butt off the platform and watched it spark on the tracks. "Where will you go? Once you're in Germany?"
+
+"Volkmarsen. There's a man there who offered me work."
+
+"The butcher?"
+
+Jens nodded. He'd told Udo about Arno Wittel—not everything, but enough. A soldier he'd met during the surrender, a man with a family business who'd promised help if Jens ever needed it.
+
+"And the capital you mentioned? For my business?"
+
+Jens was silent for a moment. He'd known this question would come. Udo was many things, but he wasn't stupid.
+
+"During the retreat," Jens said carefully, "I found some things. Valuables. Enough to start something new."
+
+"Looted?"
+
+"Does it matter?"
+
+Udo smiled thinly. "It matters to my conscience. But my conscience is flexible, after everything we've done." He lit another cigarette. "When should I contact you?"
+
+"Give it a year. Maybe two. Things need to settle. I need to establish myself, become someone people trust." Jens looked at him. "And you need to see what's left of your father's business."
+
+"If there's anything left."
+
+"There will be something. There's always something."
+
+The train crossed into Austria as night fell, the mountains rising dark against a star-scattered sky. Jens slept fitfully, dreaming of diamonds and blood and a face he was already beginning to forget.
+
+Paul Fleischer, dying in the driver's seat. Making him promise.
+
+Find my family. Give them their share.
+
+I swear.
+
+He woke to gray dawn and German soil—or what had been German soil before the occupation carved it into zones. The train stopped frequently now, at checkpoints and crossings, documents inspected, prisoners counted.
+
+No one questioned Jens's story. The chaos was too complete, the bureaucracy too overwhelmed. He was just another face in a sea of displaced persons, another lost soul trying to find his way home.
+
+Munich. A transit camp. More processing, more waiting.
+
+The train north would leave in three days. Three days of limbo, sleeping in barracks, eating camp food, watching the other prisoners drift toward whatever futures awaited them.
+
+On the second night, Jens made his move.
+
+The camp was loosely guarded—they weren't prisoners anymore, just refugees in transit—and the fence at the back was more suggestion than barrier. He slipped through at two in the morning, carrying nothing but the clothes on his back and the diamonds sewn into his jacket.
+
+He walked until dawn, then found a barn and slept until noon. Then walked again, heading north, toward Volkmarsen, toward the life of Dieter Schmidt.
+
+It took him eight days.
+
+Eight days of walking, of hiding, of stealing food from farms and sleeping in ditches. Eight days of becoming invisible, of learning to move through a shattered country without being noticed.
+
+When he finally reached Volkmarsen, he was filthy, exhausted, and half-starved. But he was free.
+
+The butcher shop was easy to find—the only one in town, just as Arno had described. Jens stood across the street for a long time, watching customers come and go, gathering his courage.
+
+Then he walked in.
+
+Arno Wittel was behind the counter, wrapping meat for a customer. He looked up as the door opened, and for a moment his face was blank—just another stranger, just another vagrant.
+
+Then recognition dawned.
+
+"You came."
+
+"You said I could."
+
+Arno finished with the customer, locked the door, turned the sign to CLOSED. Then he took Jens by the shoulders and looked at him closely.
+
+"You look like death."
+
+"I feel like death."
+
+"Come upstairs. My wife will make you something to eat."
+
+The Wittels took him in without question. Fed him, clothed him, gave him a room above the shop. They asked no questions about where he'd been or what he'd done.
+
+Jens told them his story—the carefully constructed lie of Dieter Schmidt, the orphaned dock worker from Hamburg. They accepted it without comment. In postwar Germany, everyone had a story, and nobody's story was entirely true.
+
+He started working in the shop the following week. Cutting meat, serving customers, learning the rhythms of small-town life. It was simple work, honest work, the kind of labor that left him tired in his body but quiet in his mind.
+
+The diamonds stayed hidden in his jacket, which stayed hidden under his mattress. A fortune, waiting. But he couldn't use it yet. Couldn't draw attention to himself. Couldn't risk exposure.
+
+So he waited.
+
+Months passed. A year. Two years.
+
+He became part of the town. Dieter Schmidt, the butcher's assistant. Quiet, hardworking, a bit mysterious but harmless. People stopped wondering where he'd come from. He was just there, part of the scenery, invisible in his ordinariness.
+
+In the spring of 1949, a letter arrived.
+
+It was addressed to Dieter Schmidt, care of the butcher shop, and the handwriting was Udo's.
+
+The business is rebuilding. I could use a partner. Come to Kiel when you're ready.
+
+Jens read the letter twice, then burned it. He wasn't ready. Not yet. He needed more time, more distance from the war, more certainty that no one was looking for him.
+
+He wrote back: Give me another year.
+
+And then he waited some more.
+
+In the spring of 1950, another letter arrived.
+
+Time's running out. The business is growing. I need capital, and I need a partner I can trust. If you're not coming, tell me now.
+
+Jens thought about it for a week. Thought about the diamonds under his mattress, the fortune that was doing no one any good. Thought about Udo in Kiel, rebuilding his father's legacy. Thought about Paul Fleischer's family in Koblenz, still waiting for their share.
+
+He made his decision.
+
+He told Arno he was leaving—an opportunity in Kiel, too good to pass up. Arno understood. He'd always known Dieter Schmidt was destined for something more than cutting meat in a small-town shop.
+
+They shook hands. Jens thanked him for everything—the shelter, the work, the chance to become someone new.
+
+Then he packed his bag, retrieved his jacket with its hidden fortune, and caught a train north.
+
+Kiel was waiting.
+
+And with it, the beginning of a new life—one built on stolen diamonds and broken promises, on lies and survival and the desperate hope that the past would stay buried.
+
+Just like the chest in the mountains.
+
+Just like everything he'd done to get this far.

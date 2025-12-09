@@ -1,0 +1,161 @@
+#import "../template.typ": chapter, scenebreak, letter
+
+#chapter(
+  title: "CHAPTER 29",
+  location: "Rome",
+  date: "2019",
+)[
+The meeting room was centuries old—vaulted ceilings, faded frescoes, the accumulated weight of history pressing down on everyone present. A dozen men sat around the polished table, their faces carved from shadow and disappointment.
+
+The old man at the head of the table broke the silence.
+
+"Russo is dead. His men are dead. The treasure is gone."
+
+No one spoke. What was there to say?
+
+"Three men," the old man continued. "Three of our people, killed by a pair of Danish teachers. Amateurs. And now the diamonds—the diamonds we've been searching for since Mussolini fell—are beyond our reach."
+
+A voice from the table: "We could pursue them. Find them in Denmark. Take back what's ours."
+
+"And accomplish what?" The old man's voice was sharp. "More bodies? More attention? The Danes aren't fools. If they've kept the treasure, it's hidden where we'll never find it. And if they haven't..." He spread his hands. "Then there's nothing to pursue."
+
+Another voice: "Russo should have listened. We told him three men weren't enough."
+
+"Russo was arrogant. He thought he was cleverer than everyone else." The old man stood, his shadow stretching across the table. "He was wrong. And now he's dead, and our cause is set back by decades."
+
+Silence again. The weight of failure hung in the air.
+
+"What do we do now?" someone asked.
+
+"We do what we've always done. We wait. We work. We build toward the future." The old man looked around the table, meeting each pair of eyes in turn. "The treasure would have accelerated our plans. Its loss slows us, but doesn't stop us. The dream of restoration—the world we're working toward—it doesn't die because of one setback."
+
+He moved toward the door, then paused.
+
+"But understand this: the matter of the Danes is closed. No revenge. No further action. We don't have the resources to waste on a vendetta, and we don't need the attention it would bring." His voice hardened. "Is that understood?"
+
+Murmured assent around the table.
+
+"Good." He opened the door. "Now get back to work. There's a world to rebuild."
+
+SILKEBORG, DENMARK 2019
+
+The summer house sat deep in the forest, invisible from the road, accessible only by a rutted track that wound through the trees for half a kilometer. A small lake glittered through the pines. No neighbors. No witnesses.
+
+Ole and Malene had been here for three days, sleeping, eating, trying to process what they'd done and what they'd found.
+
+The chest sat on the living room floor, cleaned of the Italian earth that had clung to it for seventy-four years. Two brass keyholes gleamed in the afternoon light.
+
+"Ready?" Ole asked.
+
+Malene nodded.
+
+They knelt on either side of the chest, each holding one of the keys they'd retrieved from the Odense locksmith. The keys that Jens Raben had commissioned decades ago, before the war, before everything.
+
+"On three," Ole said. "One. Two. Three."
+
+They turned the keys simultaneously.
+
+A soft click. The lid moved.
+
+Ole lifted it slowly, half-expecting an explosion despite the precautions. But there was only silence, and then light—impossibly brilliant light, fragmenting and dancing as the afternoon sun caught the contents.
+
+Diamonds.
+
+Hundreds of them, filling the chest like frozen fire. Huge stones, small stones, cut gems and rough crystals. A fortune beyond calculation, waiting in the darkness since 1945.
+
+Malene reached in and lifted a handful. The gems cascaded through her fingers, catching the light, throwing rainbows across the walls.
+
+"My God," she whispered. "It's real. It's all real."
+
+Ole couldn't speak. He'd believed, of course—believed enough to spend months following Jens's trail, to risk everything in the Italian mountains. But seeing the treasure, touching it, understanding the sheer impossible wealth in front of him...
+
+"What do we do?" Malene asked. "We can't keep this. You know we can't."
+
+Ole nodded slowly. The Italians would never stop looking. Even without Russo, even with the order to stand down, there would be others who knew. Others who would search. Others who would eventually find two Danish teachers living suspiciously well.
+
+"We keep some," he said. "Three handfuls. One for each of us, one for Paul Fleischer's family. The rest..."
+
+"The rest?"
+
+"We give it back."
+
+Two days later, a package arrived at the police station in Aarhus. Inside, wrapped in newspaper and twine, was a chest full of diamonds and a handwritten note:
+
+"These diamonds were found in Italy. They originally belonged to Mussolini's government. We have chosen not to keep them and hope the Danish state will ensure they reach their rightful owners."
+
+By evening, the story was everywhere. International headlines, breathless speculation, wild theories about who had found the treasure and why they'd given it away. The Italian government demanded immediate repatriation. Jewish organizations filed claims. Descendants of fascist officials emerged from the woodwork.
+
+In a summer house in the Danish forest, Ole and Malene watched the coverage on television.
+
+"Do you think they'll ever figure out it was us?" Malene asked.
+
+"No fingerprints. No DNA. The note was typed on a public library computer." Ole shook his head. "We're ghosts."
+
+"And the Italians? The organization?"
+
+"They know the treasure's gone. They know it's not coming back. What's the point of chasing us now?"
+
+Malene was quiet for a long moment. Then: "Paul's family. Helga's family. How do we get them their share?"
+
+"Carefully. Anonymous packages from a country we've never visited. Different postmarks, different carriers. It will take time, but it's safer than trying to contact them directly."
+
+"And us? What do we do with our share?"
+
+Ole thought about it. A handful of diamonds—not the entire treasure, but still more wealth than he'd ever imagined possessing. Enough to disappear. Enough to start over. Enough to live comfortably for the rest of their lives.
+
+"We wait," he said. "A year, maybe two. Then we sell a few stones, carefully, through dealers who don't ask questions. Buy a house somewhere quiet. Live small. Don't attract attention."
+
+Malene leaned against him. "It doesn't feel real. Any of it."
+
+"I know."
+
+"Three men are dead because of us."
+
+"Three men who were going to kill us."
+
+"I know that too." She was quiet again. "Does it get easier? Knowing what we did?"
+
+Ole considered lying, then decided against it. "I don't know. Ask me in a year."
+
+Outside, the forest darkened toward evening. The lake reflected the first stars. Somewhere in Italy, three bodies had been discovered and quietly disposed of. Somewhere in Rome, an old man was explaining failure to his successors.
+
+And somewhere in Koblenz, a package was making its way through the postal system—a shoebox containing a small fortune in diamonds and a note that would change an old woman's life forever.
+
+KOBLENZ, GERMANY 2019
+
+Helga Jantzen woke slowly, as she did every morning since her husband died. The apartment was quiet. The television muttered in the kitchen, providing the illusion of company.
+
+She was seventy-eight years old. Her pension was small. Her children visited on holidays. Most days, nothing happened.
+
+Then the doorbell rang.
+
+A postal carrier with a package. Denmark, the return address said, though she knew no one in Denmark. She signed for it, carried it to the kitchen table, and found scissors to cut the twine.
+
+Inside the outer wrapper was a shoebox. Inside the shoebox was a cloth pouch and a letter.
+
+She read the letter twice, her hands trembling.
+
+"Dear Mrs. Jantzen,
+
+I am sending this package because your uncle, during the war, shortly before he died, participated in events where he earned a share of a treasure consisting of first-class diamonds. We have now found the treasure and are therefore sending your uncle's share to you. When you have the diamonds appraised, you will find that a great fortune is hidden in the pouch.
+
+I hope you are in good health and wish you all the best for the future.
+
+Yours sincerely, NN
+
+P.S. Don't try to find out who I am. If you want to keep the diamonds, discretion is essential."
+
+Helga set down the letter and opened the pouch.
+
+Light exploded across her kitchen. Diamonds—a handful of perfect diamonds—spilling into her palm like frozen tears.
+
+She sat there for a long time, an old woman alone in a quiet apartment, holding a fortune that had traveled across decades and continents to reach her.
+
+Somewhere, someone had remembered a promise made in wartime.
+
+Somewhere, justice—or something like it—had finally been done.
+
+THE END
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+]

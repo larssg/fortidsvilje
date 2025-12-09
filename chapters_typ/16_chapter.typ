@@ -1,0 +1,171 @@
+#import "../template.typ": chapter, scenebreak, letter
+
+#chapter(
+  title: "CHAPTER 16",
+  location: "Rimini, Italy",
+  date: "May 1945",
+)[
+The gates crashed open at dawn, flooding the warehouse with light.
+
+Jens woke instantly—a reflex honed by years of combat. He was on his feet before his mind caught up, heart pounding, hands reaching for weapons that weren't there.
+
+Just guards. Just morning. Just another day of captivity.
+
+But no. Today was different. Today, they were moving.
+
+They were marched to the railway station and loaded onto passenger cars—actual passenger cars, with seats and windows and something approaching dignity. Jens found himself in a first-class compartment, sinking into velour cushions that felt impossibly soft after months of sleeping on dirt and straw.
+
+The train lurched into motion, and Milan began to slide past the windows. Industrial districts first—gray concrete factories, smokestacks, the machinery of war being converted to the machinery of peace. Then suburbs, some poor and crumbling, others prosperous with green lawns and white walls. Finally the Po Valley opened before them, flat and fertile, farmers working fields that had somehow survived the conflict.
+
+"Beautiful country," said one of the soldiers in his compartment.
+
+"We tried to destroy it," said another. "And ourselves. And everyone else."
+
+No one argued.
+
+The news came from an American guard who spoke passable German.
+
+Hitler was dead. Berlin had fallen. The war in Europe was over.
+
+Some of the prisoners wept. Others sat in stunned silence. A few seemed almost relieved, as if they'd been waiting for permission to stop believing.
+
+Jens felt nothing. He'd stopped believing years ago.
+
+Parma. A stop for food and water, the platform bustling with activity, the city beyond looking almost untouched by war. Jens ate bread and cheese and watched the Italians going about their lives—ordinary people doing ordinary things, as if the last six years had been a bad dream.
+
+Then back on the train, heading southeast. The landscape changed—hills appearing, then mountains in the distance, the air carrying a hint of salt.
+
+Rimini.
+
+The station was elegant, white concrete, shops on the ground floor. Signs pointed toward hotels. A resort town, before the war. Waiting to be a resort town again.
+
+But first, there was a camp to fill.
+
+The march took an hour, north along the coast, the Adriatic glittering on their right. The beach was white and endless, stretching as far as they could see in both directions.
+
+The camp was even larger.
+
+Thousands of tents. Wooden buildings. Watchtowers. Barbed wire. A small city of the defeated, waiting to be processed and released—or processed and punished.
+
+They were halted at the main gate, where an English officer and a German SS colonel waited to address them.
+
+The German was immaculate—pressed uniform, polished boots, sharp eyes. A staff officer, clearly. Someone who'd spent the war behind a desk while men like Jens did the dying.
+
+"My name is Otto Eiche," the German said. "Welcome to Rimini. You'll be here until your cases are reviewed. As SS, you should expect thorough investigation. War crimes. Atrocities. All of it."
+
+A murmur ran through the crowd.
+
+"Some of you will be released. Some will be sent for prosecution. My advice: prepare your explanations. Be consistent. And under no circumstances admit to having served in the camps."
+
+He paused, letting that sink in.
+
+"You are still soldiers. You will maintain discipline. You will obey your superiors. Anyone who forgets this will be punished—harshly, and without mercy."
+
+He saluted—a military salute, not the Hitler greeting—and walked back into the building.
+
+The gates opened. The prisoners filed through.
+
+Welcome to the end of the war.
+
+The section assigned to their group was empty—just bare ground, waiting to be built up.
+
+Tents, tools, and supplies were available at a depot. They would construct their own prison.
+
+A middle-aged officer named Peiper took charge. "Officers to the right, enlisted to the left. NCOs, pick your men. Build the camp. Prove we're still soldiers, even in defeat."
+
+Jens selected eleven men and set them to work. Tents first, then latrines, then kitchens. The old rhythms of military life, the comfort of orders and tasks.
+
+By nightfall, they had shelter. By the end of the week, they had a functioning camp. By the end of the month, they had something almost like routine.
+
+The interrogations began in June.
+
+Every day, a group was called to the main building. Some came back. Some didn't.
+
+The ones who returned told stories—questions about concentration camps, about massacres, about the things that were becoming common knowledge as the Allies opened the gates of Auschwitz and Dachau and all the other monuments to organized evil.
+
+Jens listened and said nothing. He'd never served in the camps. He'd never participated in the organized murders. But the things he'd done in the East—the villages, the reprisals, the casual cruelties that had become routine—those would be enough to hang him if anyone looked closely enough.
+
+He would tell the truth about Italy. He would lie about everything else.
+
+And he would wait.
+
+The months passed. Spring became summer, summer became fall, fall became winter.
+
+The camp population dwindled as men were processed and released. Jens ran laps around the perimeter every day, keeping himself fit, keeping himself sane.
+
+One of the runners was a man named Udo Dressler.
+
+He looked exactly like Jens.
+
+They'd noticed each other in Milan, before the transport. Now, running together, they became friends—or something like friends. Two men who'd seen too much, done too much, survived when they shouldn't have.
+
+Udo was from Kiel. Merchant family, import business, wealth and connections. His parents had died in a bombing raid. He had no one waiting for him.
+
+Neither did Jens.
+
+"When this is over," Udo said one evening, "I'm going home. See what's left of the business. Maybe rebuild, if there's anything to rebuild."
+
+"And if there isn't?"
+
+"America, maybe. Land of opportunity." He smiled without humor. "Or so they say."
+
+Jens thought about Volkmarsen. About Arno Wittel's offer. About the chest buried in the mountains.
+
+"I'll find something," he said. "Everyone does, eventually."
+
+Two years.
+
+Two years of waiting, of running, of watching men disappear into the interrogation rooms and emerge either free or condemned.
+
+When Jens's turn finally came, he was ready.
+
+The questions were predictable. Where had he served? What had he done? Had he witnessed atrocities? Had he participated?
+
+He told the truth about Italy—the fighting, the retreat, the chaos at the end. He lied about the East, claiming ignorance of the massacres, claiming his unit had only been involved in combat operations.
+
+The interrogators didn't push. They had thousands of cases to process, limited time, limited resources. They were looking for the obvious monsters, not the ordinary ones.
+
+Jens was released.
+
+The night before the transport north, he sat with Udo on a bench outside the main building.
+
+"So," Udo said. "Germany or Denmark?"
+
+"Germany. For now."
+
+"You'll need an identity."
+
+"I have a plan."
+
+Udo lit a cigarette and offered one to Jens. "The business in Kiel—if there's anything left—I could use a partner. Someone with capital."
+
+Jens thought about the diamonds sewn into his jacket. The chest waiting in the mountains.
+
+"I might be able to help with that."
+
+Udo looked at him sharply. "Where would you get capital?"
+
+"Does it matter?"
+
+A long pause. Then: "No. I suppose it doesn't."
+
+They sat in silence, smoking, watching the stars come out over the Adriatic.
+
+Tomorrow, they would leave this place. Tomorrow, everything would change.
+
+But tonight, there was only the silence and the stars and the weight of everything they'd done and everything they'd survived.
+
+"Dieter Schmidt," Jens said.
+
+"What?"
+
+"My new name. If you need to find me. Dieter Schmidt, in Volkmarsen."
+
+Udo nodded. "I'll remember."
+
+The next morning, they boarded the train north, toward Germany, toward whatever came next.
+
+Jens Raben was gone.
+
+Dieter Schmidt was just beginning.
+]

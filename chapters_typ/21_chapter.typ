@@ -1,0 +1,87 @@
+#import "../template.typ": chapter, scenebreak, letter
+
+#chapter(
+  title: "CHAPTER 21",
+  location: "Lake Como, Italy",
+  date: "July 2019",
+)[
+Russo woke before dawn, as he always did.
+
+He stood on his balcony with a cigarette and watched the lake turn from black to gray to silver as the sun climbed behind the mountains. The morning was cool, the air fresh, the town below still sleeping.
+
+He thought about the operation. The pieces were in place. The waiter, the street sweeper, both loyal and capable. The GPS tracker on the Danes' car, showing every kilometer they traveled. The van in Genoa, waiting with two coffins in the back.
+
+Everything was ready.
+
+Now he just had to wait.
+
+The confrontation with the street sweeper that morning was unfortunate.
+
+Russo had given him a simple task: find a safe house where they could bring the treasure after they took it. Somewhere discreet, somewhere no one would look. It should have been done days ago.
+
+Instead, the young fool had excuses. Too busy. Too many other things to manage. Not enough time.
+
+Russo had lost his temper. In retrospect, it was a mistake—the Danish woman had been watching from her balcony, and he'd seen the recognition in her eyes when she spotted them talking. She was suspicious now. They would have to be more careful.
+
+But the damage was limited. What had she really seen? An elderly man having a conversation with a street sweeper. It could mean anything. It probably meant nothing.
+
+Still, Russo decided to adjust the plan. No more direct contact with the operatives in public. All communication would go through the hotel manager, who was one of theirs and could be trusted.
+
+And the charm offensive would continue. Tonight, perhaps, he would engage the Danes in conversation again. Reassure them. Make them feel comfortable.
+
+Then, when the moment came, they would never see it coming.
+
+The GPS tracker showed the Porsche leaving Dongo at nine-thirty, heading north along the coast road.
+
+Russo watched the blinking dot on his screen as it wound through villages, climbed into the mountains, paused at a small square in a place called Peglio. The Danes were being tourists. Looking at views. Eating lunch.
+
+Good. Let them look. Let them get comfortable.
+
+But they weren't searching yet. Not seriously. They were still in reconnaissance mode, getting the lay of the land.
+
+The real hunt would begin soon. And when it did, Russo would be ready.
+
+His phone buzzed: a message from Rome.
+
+The Danish archivist had been dealt with. A traffic accident—car wrapped around a tree, driver killed instantly. The police were calling it a tragic loss of control. No one suspected anything.
+
+Russo deleted the message and felt nothing. The archivist had been a loose end, someone who'd asked too many questions about Jens Raben and the SS records. Now he was gone, and the questions had stopped.
+
+There would be more loose ends to tie up when this was over. The waiter and the street sweeper, for instance. They knew too much to be allowed to live. Russo had already made arrangements—after the treasure was secured, both young men would have accidents of their own.
+
+It was regrettable but necessary. The movement required absolute secrecy. Anyone who threatened that secrecy had to be eliminated.
+
+That evening, Russo dined alone in the restaurant, watching the Danes from across the room.
+
+They seemed relaxed, happy even—a couple on holiday, enjoying good food and wine. The woman was beautiful, Russo had to admit. The man was solid, dependable-looking. Under other circumstances, he might have enjoyed their company.
+
+But they were obstacles now. Obstacles to be removed once they'd served their purpose.
+
+He caught the woman's eye and raised his glass. She smiled politely and looked away.
+
+Suspicious, perhaps. But not suspicious enough to leave.
+
+That was their mistake.
+
+After dinner, Russo made calls.
+
+The safe house had been found—a farmhouse in the hills above Dongo, abandoned for years, accessible only by a dirt track that no one used. The street sweeper had finally done his job.
+
+The van in Genoa was confirmed. A cargo ship was leaving for Buenos Aires in three days. The coffins would be loaded as "personal effects" of a crew member who'd died abroad. The paperwork was already prepared.
+
+Everything was in place.
+
+Now all Russo had to do was wait for the Danes to find the treasure.
+
+He stood at the window, looking out at the dark water, and allowed himself a moment of satisfaction.
+
+Seventy-five years. His father had started this search. His grandfather had been there when the treasure was lost. And now, finally, it was about to be found.
+
+The Duce's legacy, restored at last.
+
+Russo raised an imaginary glass to the darkness.
+
+"Soon," he whispered. "Very soon."
+
+Then he went to bed and dreamed of diamonds.
+]
